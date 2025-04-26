@@ -31,12 +31,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "heroku-postbuild": "npm install --legacy-peer-deps && npm run build"
-  },
-  "engines": {
-    "node": "18.x",
-    "npm": "9.x"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
