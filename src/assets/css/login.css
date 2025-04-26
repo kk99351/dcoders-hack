@@ -1,0 +1,103 @@
+.loginRoot{
+    background-color: #ffffff;
+    color: #FFF;
+    font-family: 'Poppins', sans-serif;
+}
+.loginRoot-left{
+    background-color: #2c343c;
+    background-image: radial-gradient(103.49% 104.84% at 50% -4.84%,#2c343c 9.4%,#0a0e12 86.33%);
+}
+.LoginTopLogo{
+    padding: 1.5rem 3rem;
+    font-size: 24px;
+    font-weight: 600;
+    color: #fb813e;
+}
+.LoginTitle{
+    font-size: 60px;
+    text-align: center;
+    font-weight: 600;
+}
+.LoginBottomLinks{
+    padding: 2.5rem;
+    margin: auto;
+    width: 350px;
+}
+.LoginBottomLinks .rectangleIcons{
+    width: 44px;
+}
+.LoginBottomLinks .roundIcons{
+    width: 37px;
+}
+.loginCard{
+    margin: auto;
+    min-width: 360px;
+    color: black;
+}
+.loginCard-header{
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 2rem;
+    margin-bottom: 1rem;
+}
+.loginCard-header span{
+    font-weight: normal;
+    font-size: 1rem;
+}
+.ThirdPartyLoginBT button{
+    font-size: 1rem;
+    background-color: #FFF;
+    color: #858585;
+    border-radius: .6rem;
+    border: 2px solid;
+    padding: 0.5rem 1rem;
+}
+.LoginInputField{
+    font-family: 'Lato', sans-serif;
+    background-color: #FFF;
+    border-radius: 1rem;
+    padding: 1.5rem 0 2rem 0;
+    margin: 1.6rem 0rem;
+}
+.LoginInputField input{
+    margin: .5rem 0;
+    border-radius: 0.5rem;
+    padding: .4rem 1rem;
+    width: 100%;
+    border: 2px solid;
+}
+.LoginInputField input:hover,.LoginInputField input:active,.LoginInputField input:focus,
+.ThirdPartyLoginBT button:hover,.ThirdPartyLoginBT button:active,.ThirdPartyLoginBT button:focus
+{
+    background-color: #EAEAEA;
+    border: none;
+    outline: none;
+    border: 2px solid;
+}
+.forgotPW{
+    display: block;
+    margin: .5rem 0rem;
+    color: #346BD4;
+}
+.signInBt{
+    font-family: 'Montserrat', sans-serif;
+    width: 100%;
+    background-color: #fb813e;
+    padding: 0.5rem;
+    color: #FFF;
+    font-weight: bold;
+    border-radius: .5rem;
+    margin: 0.5rem 0rem;
+}
+.signInBt:hover,.signInBt:active,.signInBt:focus{
+    background-color: #e57438;
+}
+.registerBt{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    color: #858585;
+    font-weight: normal;
+}
+.registerBt span{
+    color: #346BD4;
+}

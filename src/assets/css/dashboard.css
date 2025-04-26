@@ -1,0 +1,24 @@
+.dashboard-div{
+    margin: 1rem 2rem;
+    margin-bottom: 2rem;
+}
+.quickLinkCards{
+    display: flex;
+    gap: 1.5rem 1.5rem;
+    flex-wrap: wrap;
+}
+.quickLinkCard-inner{
+    max-width: 500px;
+    display: flex;
+    gap: 1rem 1rem;
+    flex-wrap: wrap;
+}
+.eventRegisterBt{
+    background-color: #f66c3b !important;
+    padding: 0.2rem !important;
+    color: #FFF !important;
+    border-radius: .5rem !important;
+    margin: 0.5rem 0rem !important;
+    font-size: 0.85rem !important;
+    text-transform: none !important;
+}
